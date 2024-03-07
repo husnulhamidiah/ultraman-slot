@@ -1,4 +1,5 @@
 const user = {
     name: 'Okanehire',
-    skill: ['Fire', 'Wind', 'Water']
+    skill: ['Fire', 'Wind', 'Water'],
+    talent: ["eye of mirror"]
 }
