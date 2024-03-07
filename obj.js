@@ -14,3 +14,5 @@ ultraman.attack()
 ultraman.beam(80)
 
 console.log(ultraman)
+
+console.log("Rizki Jelek")
